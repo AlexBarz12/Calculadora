@@ -1,0 +1,2 @@
+# Calculadora
+O projeto deverá conter:  1. Conexão com banco de dados utilizando Hibernate  2. Um model chamado Historico com as seguintes colunas: - id - primeiroValor - segundoValor - operador - resultado  3. Você deverá fazer as quatros operações matemáticas básica: +, -, *, /  4. Deverá mostrar os resultados em uma tabela (Historico)  5. Enviar o link do GitHub  6. (Extra) Uma tela de autenticação
